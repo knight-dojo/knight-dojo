@@ -6,14 +6,14 @@ Knight Dojo 🏯: is a dynamic cybersecurity platform where individual players a
 ## Where Cyber Knights Train & Conquer⚔️
 
 ## Digital Battlefield Kōbō:
-- Code Katana Kōbō {Software Base CTF}
-- Samurai Solder Kōbō {Hardware base CTF}
-- Battle of the Clans Kōbō {Team-based Battles}
-- The Ronin Chamber Kōbō {Escape Room}
-- The Gaiden Arena Kōbō {Interactive Challenge}
-- Knight Core Kōbō {Device Hacking & IoT}
-- Shadow Web Kōbō {Web Application CTF}
-- Samurai Ghost Kōbō {AI & Malware Evasion}
+- Code Katana Kōbō > {Software Base CTF}
+- Samurai Solder Kōbō > {Hardware base CTF}
+- Battle of the Clans Kōbō > {Team-based Battles}
+- The Ronin Chamber Kōbō > {Escape Room}
+- The Gaiden Arena Kōbō > {Interactive Challenge}
+- Knight Core Kōbō > {Device Hacking & IoT}
+- Shadow Web Kōbō > {Web Application CTF}
+- Samurai Ghost Kōbō > {AI & Malware Evasion}
 
 ## Follow Us
 - [Instagram](https://instagram.com/knight_dojo)  
