@@ -1,4 +1,3 @@
-## Hi there 👋
 # KNIGHT DOJO 🏯⚔️🥷
 <img src="/knight.png"/>
 **Knight Dojo 🏯: unites cyber warriors through hardware & software CTFs, events, and hands-on learning for a stronger community.**
@@ -22,3 +21,4 @@
 - [Instagram](https://instagram.com/knight_dojo)  
 - [Twitter](https://twitter.com/knight_dojo)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knight-dojo)](https://github.com/anuraghazra/github-readme-stats)
