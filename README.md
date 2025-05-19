@@ -1,16 +1,24 @@
 ## Hi there 👋
+# KNIGHT DOJO 🏯⚔️🥷
+<img src="/knight.png"/>
+**Knight Dojo 🏯: unites cyber warriors through hardware & software CTFs, events, and hands-on learning for a stronger community.**
+**Where Cyber Knights Train & Conquer⚔️**
 
-<!--
-**knight-dojo/knight-dojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What we do
+- Software CTFs
+- Hardware CTFs
+- Mixed-Skill CTFs
+- CTF Tournaments / Clan Wars
+- Escape Room
+- Interactive Challenge Labs
+- IoT Device Pen-testing
+- Android APK Reversing
+- Web Application Bug Hunting
+- AI & Malware Evasion Techniques
+ 
+**(formerly "R4V3N-S3C")*
 
-Here are some ideas to get you started:
+## Follow Us
+- [Instagram](https://instagram.com/knight_dojo)  
+- [Twitter](https://twitter.com/knight_dojo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
