@@ -1,7 +1,7 @@
 # KNIGHT DOJO 🏯⚔️🥷
 <img src="/knight.png"/>
 
-##Knight Dojo 🏯: is a dynamic cybersecurity platform where individual players and teams dive into immersive Capture The Flag (CTF) challenges spanning both hardware and software domains. Beyond the ##digital battlefield, Knight Dojo powers real-world engagement with hands-on activities like conferences, meetups, and casual hangouts — all aimed at building a strong, skilled, and collaborative ##cybersecurity community.
+## Knight Dojo 🏯: is a dynamic cybersecurity platform where individual players and teams dive into immersive Capture The Flag (CTF) challenges spanning both hardware and software domains. Beyond the  digital battlefield, Knight Dojo powers real-world engagement with hands-on activities like conferences, meetups, and casual hangouts — all aimed at building a strong, skilled, and collaborative cybersecurity community.
 
 ##Where Cyber Knights Train & Conquer⚔️
 
