@@ -10,9 +10,8 @@ Knight Dojo 🏯: is a dynamic cybersecurity platform where individual players a
 - Hardware Kōbō
 - Clan Wars Kōbō
 - Escape Room Kōbō
-- Interactive Challenge Labs
-- IoT Device Pen-testing
-- Android APK Reversing Kōbō
+- Interactive Challenge Kōbō
+- Digital Device Kōbō
 - Web Application Kōbō
 - AI & Malware Evasion Kōbō
 
