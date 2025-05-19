@@ -1,21 +1,26 @@
 # KNIGHT DOJO 🏯⚔️🥷
 <img src="/knight.png"/>
-**Knight Dojo 🏯: unites cyber warriors through hardware & software CTFs, events, and hands-on learning for a stronger community.**
-**Where Cyber Knights Train & Conquer⚔️**
+
+Knight Dojo 🏯: is a dynamic cybersecurity platform where individual players and teams dive into immersive Capture The Flag (CTF) challenges spanning both hardware and software domains. Beyond the digital battlefield, Knight Dojo powers real-world engagement with hands-on activities like conferences, meetups, and casual hangouts — all aimed at building a strong, skilled, and collaborative cybersecurity community.
+
+#Where Cyber Knights Train & Conquer⚔️
 
 ## What we do
-- Software CTFs
-- Hardware CTFs
-- Mixed-Skill CTFs
-- CTF Tournaments / Clan Wars
-- Escape Room
+- Software Kōbō
+- Hardware Kōbō
+- Clan Wars Kōbō
+- Escape Room Kōbō
 - Interactive Challenge Labs
 - IoT Device Pen-testing
-- Android APK Reversing
-- Web Application Bug Hunting
-- AI & Malware Evasion Techniques
+- Android APK Reversing Kōbō
+- Web Application Kōbō
+- AI & Malware Evasion Kōbō
  
-**(formerly "R4V3N-S3C")*
+
+# Follow Us
+- [Instagram](https://instagram.com/knight_dojo)  
+- [Twitter](https://twitter.com/knight_dojo)
+
 
 ## Follow Us
 - [Instagram](https://instagram.com/knight_dojo)  
