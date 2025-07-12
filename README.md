@@ -7,7 +7,7 @@ Knight Dojo 🏯 is a dynamic cybersecurity platform where individual players an
 
 All efforts are aimed at building a strong, skilled, and collaborative cybersecurity community.
 
-## Where Cyber Knights Train & Conquer⚔️
+## Where Cyber Knights Train to Conquer⚔️
 ⠀⠀⠀⠀⠀⠀⠀
 
 ## Digital Battlefield Kōbō:
