@@ -20,15 +20,16 @@ All efforts are aimed at building a strong, skilled, and collaborative cybersecu
 - Shadow Web Kōbō > {Web Application CTF}
 - Samurai Ghost Kōbō > {AI & Malware Evasion}
 
-Team Member:
+## KN1GHT CLAN:
 - CTF Team Lead / Lead Dev:
  [Th3_se3k3r](https://github.com/Th3-Seek3r)
 
+- Technical Lead:
+[P4thFind3r-CY](https://github.com/P4thFind3r-CY)
 
-Technical Lead:
-- [P4thFind3r-CY](https://github.com/P4thFind3r-CY)
-- [Aliejah](https://github.com/AliejahY)
-- [4th3n4](https://github.com/Adablessing)
+- Other Designer Team
+  [Aliejah](https://github.com/AliejahY)
+  [4th3n4](https://github.com/Adablessing)
 
 ## Follow Us
 - [Instagram](https://instagram.com/knight_dojo)  
