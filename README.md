@@ -21,7 +21,11 @@ All efforts are aimed at building a strong, skilled, and collaborative cybersecu
 - Samurai Ghost Kōbō > {AI & Malware Evasion}
 
 Team Member:
-- [Th3_se3k3r](https://github.com/Th3-Seek3r)
+- CTF Team Lead / Lead Dev:
+ [Th3_se3k3r](https://github.com/Th3-Seek3r)
+
+
+Technical Lead:
 - [P4thFind3r-CY](https://github.com/P4thFind3r-CY)
 - [Aliejah](https://github.com/AliejahY)
 - [4th3n4](https://github.com/Adablessing)
